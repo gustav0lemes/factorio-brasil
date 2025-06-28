@@ -12,7 +12,7 @@ Parece simples, mas não é. **THE FACTORY MUST GROW**
 
 ## Download
 
-[Factorio: Space Age 2.0.43](https://drive.google.com/file/d/18p5WfyeIxAVEktArOJxWJSc7wFw-rHEh/view?usp=drive_link)
+[Factorio: Space Age 2.0.43 (3.88 GB)](https://drive.google.com/file/d/18p5WfyeIxAVEktArOJxWJSc7wFw-rHEh/view?usp=drive_link)
 
 ## Instalação
 
