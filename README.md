@@ -1,6 +1,6 @@
 # Factorio Brasil
 
-Esse projeto tem por objetivo manter acesa a chama desse game, bem como atrair novos jogadores.
+Esse projeto tem por objetivo manter acesa a chama de Factorio no Brasil, bem como atrair novos jogadores.
 
 ## Sobre
 
@@ -8,7 +8,7 @@ Factorio é um jogo em que você constrói e mantém fábricas.
 
 Você irá minerar recursos, pesquisar tecnologias, construir infraestrutura, automatizar produção e lutar contra inimigos.
 
-Parece simples, mas não é.
+Parece simples, mas não é. **THE FACTORY MUST GROW**
 
 ## Download
 
