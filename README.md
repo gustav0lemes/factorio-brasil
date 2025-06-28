@@ -1,4 +1,4 @@
-![logo-factorio](https://i.imgur.com/MHlWP8A.png)
+![logo-factorio](https://i.imgur.com/weXvW9W.png)
 # Factorio Brasil
 
 Esse projeto tem por objetivo manter acesa a chama de Factorio no Brasil, bem como atrair novos jogadores.
