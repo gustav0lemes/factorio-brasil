@@ -9,7 +9,7 @@ Factorio é um jogo em que você constrói e mantém fábricas.
 
 Você irá minerar recursos, pesquisar tecnologias, construir infraestrutura, automatizar produção e lutar contra inimigos.
 
-Parece simples, mas não é. **THE FACTORY MUST GROW**
+Parece simples, mas não é. **THE FACTORY MUST GROW.**
 
 ## Download
 
