@@ -1,6 +1,6 @@
 # Factorio Brasil
 
-O Projeto Factorio Brasil tem por objetivo manter acesa a chama desse incrível jogo, bem como atrair novos jogadores.
+Esse projeto tem por objetivo manter acesa a chama desse game, bem como atrair novos jogadores.
 
 ## Sobre
 
