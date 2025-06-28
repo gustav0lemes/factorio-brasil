@@ -1,3 +1,6 @@
+![Minha imagem](https://i.namu.wiki/i/OgcppdEre2VXAhJp0tFm9M0mnuuNeUVnAooEBoKAqOBH--Uvn0U_nRCDOwFupjfJNKqMbTdZF_R8scTC8wuWGw.webp)
+
+
 # Factorio Brasil
 
 Projeto para dissseminação do jogo Factorio em PT-BR.
