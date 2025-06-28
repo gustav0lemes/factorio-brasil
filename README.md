@@ -1,3 +1,4 @@
+![logo-factorio](https://i.imgur.com/MHlWP8A.png)
 # Factorio Brasil
 
 Esse projeto tem por objetivo manter acesa a chama de Factorio no Brasil, bem como atrair novos jogadores.
@@ -23,7 +24,3 @@ Parece simples, mas não é. **THE FACTORY MUST GROW**
 ============================
 
 Quando puder, apoie os desenvolvedores e compre o jogo.
-
-============================
-
-![logo-factorio-brasil](https://i.imgur.com/7XwWvLm.png)
