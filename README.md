@@ -1,9 +1,14 @@
-![Minha imagem](https://i.namu.wiki/i/OgcppdEre2VXAhJp0tFm9M0mnuuNeUVnAooEBoKAqOBH--Uvn0U_nRCDOwFupjfJNKqMbTdZF_R8scTC8wuWGw.webp)
-
-
 # Factorio Brasil
 
-Projeto para dissseminação do jogo Factorio em PT-BR.
+O Projeto Factorio Brasil tem por objetivo manter acesa a chama desse incrível jogo, bem como atrair novos jogadores.
+
+## Sobre
+
+Factorio é um jogo em que você constrói e mantém fábricas.
+
+Você irá minerar recursos, pesquisar tecnologias, construir infraestrutura, automatizar produção e lutar contra inimigos.
+
+Parece simples, mas não é.
 
 ## Download
 
@@ -14,3 +19,11 @@ Projeto para dissseminação do jogo Factorio em PT-BR.
 1 - Execute “setup.exe” e siga os passos na tela.
 
 2 - Jogue Infinitamente!
+
+============================
+
+Quando puder, apoie os desenvolvedores e compre o jogo.
+
+============================
+
+![logo-factorio-brasil](https://i.imgur.com/7XwWvLm.png)
